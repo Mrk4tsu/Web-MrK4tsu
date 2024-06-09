@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMrKatsu", "WebMrKatsu\We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMrKatsu.Tests", "WebMrKatsu.Tests\WebMrKatsu.Tests.csproj", "{F5BF9286-1E1D-405F-BF44-4C7A2687083C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F5BF9286-1E1D-405F-BF44-4C7A2687083C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5BF9286-1E1D-405F-BF44-4C7A2687083C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5BF9286-1E1D-405F-BF44-4C7A2687083C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
