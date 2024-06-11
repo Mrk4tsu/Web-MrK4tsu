@@ -43,6 +43,8 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,6 +53,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entity\Account.cs" />
+    <Compile Include="Entity\Blog.cs" />
+    <Compile Include="Entity\Category.cs" />
+    <Compile Include="Entity\CategoryBlog.cs" />
+    <Compile Include="Entity\Comment.cs" />
+    <Compile Include="Entity\Feedback.cs" />
+    <Compile Include="Entity\GroupUser.cs" />
+    <Compile Include="Entity\MrKatsuWebDbContext.cs" />
+    <Compile Include="Entity\Product.cs" />
+    <Compile Include="Entity\Role.cs" />
+    <Compile Include="Entity\sysdiagram.cs" />
+    <Compile Include="Entity\Tag.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
