@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\model\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|solutionrelative:model\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\model\\dao\\enums\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|solutionrelative:model\\dao\\enums\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062E053E-8C91-4A14-BEBB-BDDEBCAC77B7}|Utilities\\Utilities.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\utilities\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062E053E-8C91-4A14-BEBB-BDDEBCAC77B7}|Utilities\\Utilities.csproj|solutionrelative:utilities\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\model\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|solutionrelative:model\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginResult.cs",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\DAO\\Enums\\LoginResult.cs",
+              "RelativeDocumentMoniker": "Model\\DAO\\Enums\\LoginResult.cs",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\DAO\\Enums\\LoginResult.cs",
+              "RelativeToolTip": "Model\\DAO\\Enums\\LoginResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:44:21.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\Entity\\Account.cs",
+              "RelativeDocumentMoniker": "Model\\Entity\\Account.cs",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\Entity\\Account.cs",
+              "RelativeToolTip": "Model\\Entity\\Account.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:35:10.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hash.cs",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Utilities\\Hash.cs",
+              "RelativeDocumentMoniker": "Utilities\\Hash.cs",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Utilities\\Hash.cs",
+              "RelativeToolTip": "Utilities\\Hash.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:23:34.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "Model\\DAO\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "Model\\DAO\\UserDAO.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwEAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:45:55.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

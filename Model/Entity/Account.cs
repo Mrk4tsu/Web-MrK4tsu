@@ -20,7 +20,7 @@ namespace Model.Entity
         [StringLength(50)]
         public string Username { get; set; }
 
-        [StringLength(70)]
+        [StringLength(250)]
         public string Password { get; set; }
 
         [StringLength(250)]

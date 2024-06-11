@@ -53,6 +53,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAO\Enums\LoginResult.cs" />
+    <Compile Include="DAO\UserDAO.cs" />
     <Compile Include="Entity\Account.cs" />
     <Compile Include="Entity\Blog.cs" />
     <Compile Include="Entity\Category.cs" />
@@ -70,6 +72,12 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Utilities\Utilities.csproj">
+      <Project>{062e053e-8c91-4a14-bebb-bddebcac77b7}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
