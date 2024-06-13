@@ -40,7 +40,8 @@ namespace Model.DAO
                 if (result.Status == false) return -2;
                 else
                 {
-                    if (result.Password.Equals(Hash.GetInstance().HashPassword(password))) return 1;
+                    //if (result.Password.Equals(Hash.GetInstance().HashPassword(password))) return 1;
+                    if (result.Password.Equals(password)) return 1;
                     else return -1;
                 }
             }
