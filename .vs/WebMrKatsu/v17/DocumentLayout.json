@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\model\\dao\\enums\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|solutionrelative:model\\dao\\enums\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\webmrkatsu\\areas\\admin\\views\\authenticate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|solutionrelative:webmrkatsu\\areas\\admin\\views\\authenticate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{062E053E-8C91-4A14-BEBB-BDDEBCAC77B7}|Utilities\\Utilities.csproj|C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\utilities\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{062E053E-8C91-4A14-BEBB-BDDEBCAC77B7}|Utilities\\Utilities.csproj|solutionrelative:utilities\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\model\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|solutionrelative:model\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\model\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|solutionrelative:model\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\webmrkatsu\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|solutionrelative:webmrkatsu\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\model\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7BD4E09-3CA4-47C8-AEA0-495362A878DE}|Model\\Model.csproj|solutionrelative:model\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\webmrkatsu\\areas\\admin\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|solutionrelative:webmrkatsu\\areas\\admin\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\webmrkatsu\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|solutionrelative:webmrkatsu\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\webmrkatsu\\areas\\admin\\data\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|solutionrelative:webmrkatsu\\areas\\admin\\data\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "Model\\DAO\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "Model\\DAO\\UserDAO.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA7wCcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:06:38.958Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginResult.cs",
-              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\DAO\\Enums\\LoginResult.cs",
-              "RelativeDocumentMoniker": "Model\\DAO\\Enums\\LoginResult.cs",
-              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\DAO\\Enums\\LoginResult.cs",
-              "RelativeToolTip": "Model\\DAO\\Enums\\LoginResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:44:21.269Z",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Web.config",
+              "RelativeDocumentMoniker": "WebMrKatsu\\Web.config",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Web.config",
+              "RelativeToolTip": "WebMrKatsu\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-13T03:26:48.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\Entity\\Account.cs",
-              "RelativeDocumentMoniker": "Model\\Entity\\Account.cs",
-              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\Entity\\Account.cs",
-              "RelativeToolTip": "Model\\Entity\\Account.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:35:10.635Z"
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\App.config",
+              "RelativeDocumentMoniker": "Model\\App.config",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Model\\App.config",
+              "RelativeToolTip": "Model\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-13T03:26:39.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Hash.cs",
-              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Utilities\\Hash.cs",
-              "RelativeDocumentMoniker": "Utilities\\Hash.cs",
-              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\Utilities\\Hash.cs",
-              "RelativeToolTip": "Utilities\\Hash.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwA8AAAAiAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Areas\\Admin\\Views\\Authenticate\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMrKatsu\\Areas\\Admin\\Views\\Authenticate\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Areas\\Admin\\Views\\Authenticate\\Index.cshtml",
+              "RelativeToolTip": "WebMrKatsu\\Areas\\Admin\\Views\\Authenticate\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T03:23:35.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Areas\\Admin\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "WebMrKatsu\\Areas\\Admin\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Areas\\Admin\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "WebMrKatsu\\Areas\\Admin\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADgvxUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:23:34.148Z"
+              "WhenOpened": "2024-06-13T03:03:08.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Areas\\Admin\\Data\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebMrKatsu\\Areas\\Admin\\Data\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Areas\\Admin\\Data\\LoginModel.cs",
+              "RelativeToolTip": "WebMrKatsu\\Areas\\Admin\\Data\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:01:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "WebMrKatsu\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\WebMrKatsu\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "WebMrKatsu\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:59:26.94Z",
+              "EditorCaption": ""
             }
           ]
         }
