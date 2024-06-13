@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|solutionrelative:webmrkatsu\\areas\\admin\\views\\authenticate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\webmrkatsu\\areas\\admin\\data\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\webmrkatsu\\areas\\admin\\data\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|solutionrelative:webmrkatsu\\areas\\admin\\data\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|c:\\users\\katsupc\\documents\\github\\web-mrk4tsu\\webmrkatsu\\assets\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|C:\\Users\\KatsuPC\\Documents\\GitHub\\Web-MrK4tsu\\webmrkatsu\\assets\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3E5FDF65-237E-493B-A2FD-AE8E19B571DA}|WebMrKatsu\\WebMrKatsu.csproj|solutionrelative:webmrkatsu\\assets\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -25,6 +25,10 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "style.css",
@@ -34,8 +38,7 @@
               "RelativeToolTip": "WebMrKatsu\\assets\\admin\\css\\style.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-13T05:28:07.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T05:28:07.192Z"
             },
             {
               "$type": "Document",
@@ -47,12 +50,7 @@
               "RelativeToolTip": "WebMrKatsu\\Areas\\Admin\\Data\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:22:06.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-06-13T05:22:06.479Z"
             },
             {
               "$type": "Document",
