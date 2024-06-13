@@ -16,9 +16,16 @@ namespace WebMrKatsu.Areas.Admin
         {
             context.MapRoute(
                 "Admin Home",
-                "trang-quan-tri",
+                "dasboard",
                 new {action = "Index", controller = "Home" }
                 );
+
+            context.MapRoute(
+                "Admin Login",
+                "login",
+                new { action = "Index", controller = "Authenticate" }
+                );
+
             context.MapRoute(
                 "Admin_default",
                 "Admin/{controller}/{action}/{id}",

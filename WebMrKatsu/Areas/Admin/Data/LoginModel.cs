@@ -8,6 +8,7 @@ namespace WebMrKatsu.Areas.Admin.Data
         public string UserName { set; get; }
 
         [Required(ErrorMessage = "Mời nhập password")]
+        [DataType(DataType.Password)]
         public string Password { set; get; }
     }
 }

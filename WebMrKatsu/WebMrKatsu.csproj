@@ -98,6 +98,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\admin\css\style.css" />
+    <Content Include="assets\css\bootstrap-grid.css" />
+    <Content Include="assets\css\bootstrap-grid.min.css" />
+    <Content Include="assets\css\bootstrap-grid.rtl.css" />
+    <Content Include="assets\css\bootstrap-grid.rtl.min.css" />
+    <Content Include="assets\css\bootstrap-reboot.css" />
+    <Content Include="assets\css\bootstrap-reboot.min.css" />
+    <Content Include="assets\css\bootstrap-reboot.rtl.css" />
+    <Content Include="assets\css\bootstrap-reboot.rtl.min.css" />
+    <Content Include="assets\css\bootstrap-utilities.css" />
+    <Content Include="assets\css\bootstrap-utilities.min.css" />
+    <Content Include="assets\css\bootstrap-utilities.rtl.css" />
+    <Content Include="assets\css\bootstrap-utilities.rtl.min.css" />
+    <Content Include="assets\css\bootstrap.css" />
+    <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\bootstrap.rtl.css" />
+    <Content Include="assets\css\bootstrap.rtl.min.css" />
+    <Content Include="assets\img\logo4.png" />
+    <Content Include="assets\js\bootstrap.bundle.js" />
+    <Content Include="assets\js\bootstrap.bundle.min.js" />
+    <Content Include="assets\js\bootstrap.esm.js" />
+    <Content Include="assets\js\bootstrap.esm.min.js" />
+    <Content Include="assets\js\bootstrap.js" />
+    <Content Include="assets\js\bootstrap.min.js" />
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
@@ -106,6 +130,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
     <Compile Include="Areas\Admin\Controllers\AuthenticateController.cs" />
+    <Compile Include="Areas\Admin\Controllers\BaseController.cs" />
     <Compile Include="Areas\Admin\Controllers\HomeController.cs" />
     <Compile Include="Areas\Admin\Data\LoginModel.cs" />
     <Compile Include="Global.asax.cs">
@@ -120,6 +145,31 @@
     <Content Include="Areas\Admin\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\Admin\Views\Authenticate\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Home\Index.cshtml" />
+    <Content Include="assets\css\bootstrap-grid.css.map" />
+    <Content Include="assets\css\bootstrap-grid.min.css.map" />
+    <Content Include="assets\css\bootstrap-grid.rtl.css.map" />
+    <Content Include="assets\css\bootstrap-grid.rtl.min.css.map" />
+    <Content Include="assets\css\bootstrap-reboot.css.map" />
+    <Content Include="assets\css\bootstrap-reboot.min.css.map" />
+    <Content Include="assets\css\bootstrap-reboot.rtl.css.map" />
+    <Content Include="assets\css\bootstrap-reboot.rtl.min.css.map" />
+    <Content Include="assets\css\bootstrap-utilities.css.map" />
+    <Content Include="assets\css\bootstrap-utilities.min.css.map" />
+    <Content Include="assets\css\bootstrap-utilities.rtl.css.map" />
+    <Content Include="assets\css\bootstrap-utilities.rtl.min.css.map" />
+    <Content Include="assets\css\bootstrap.css.map" />
+    <Content Include="assets\css\bootstrap.min.css.map" />
+    <Content Include="assets\css\bootstrap.rtl.css.map" />
+    <Content Include="assets\css\bootstrap.rtl.min.css.map" />
+    <Content Include="assets\js\bootstrap.bundle.js.map" />
+    <Content Include="assets\js\bootstrap.bundle.min.js.map" />
+    <Content Include="assets\js\bootstrap.esm.js.map" />
+    <Content Include="assets\js\bootstrap.esm.min.js.map" />
+    <Content Include="assets\js\bootstrap.js.map" />
+    <Content Include="assets\js\bootstrap.min.js.map" />
+    <Content Include="assets\fonts\Montserrat-Italic.ttf" />
+    <Content Include="assets\fonts\Montserrat-Medium.ttf" />
+    <Content Include="assets\fonts\DesignerVN-Poppins-Regular.ttf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -130,6 +180,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Admin\Views\Base\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
