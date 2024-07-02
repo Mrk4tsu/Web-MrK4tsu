@@ -59,7 +59,8 @@ namespace Model.DAO
                 case false:
                     return LoginResult.UserInactive;
                 case true:
-                    return result.Password.Equals(Hash.GetInstance().HashPassword(password))
+                    //return Hash.GetInstance().VerifyPassword(result.Password, password)  
+                    return result.Password.Equals(password)
                         ? LoginResult.Success
                         : LoginResult.PasswordIncorrect;
                 default:
