@@ -32,12 +32,22 @@
     </div>
 
     <div class="container body-content">
+        @if (TempData["AlertMessage"] != null)
+        {
+            <div id="alert-admin-box" class="alert  alert-dismissible @TempData["AlertType"] hide">
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                @TempData["AlertMessage"]
+            </div>
+        }
         @RenderBody()
         <hr />
         <footer>
             <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
         </footer>
     </div>
+    @Html.Partial("~/Areas/Admin/Views/Account/CreateUser.cshtml", new Model.Entity.Account())
+    <script src="~/assets/jquery/jquery-3.7.1.min.js"></script>
+    <script src="~/assets/ajax/jquery.unobtrusive-ajax.min.js"></script>
     <script src="~/assets/js/bootstrap.min.js"></script>
     <script src="~/assets/js/bootstrap.bundle.min.js"></script>
 </body>

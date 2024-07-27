@@ -24,5 +24,21 @@ namespace WebMrKatsu.Areas.Admin.Controllers
             }
             base.OnActionExecuted(filterContext);
         }
+        protected void SetAlert(string mess, string type)
+        {
+            TempData["AlertMessage"] = mess;
+            switch (type)
+            {
+                case "sucess":
+                    TempData["AlertType"] = "alert-success";
+                    break;
+                case "warning":
+                    TempData["AlertType"] = "alert-warning";
+                    break;
+                case "error":
+                    TempData["AlertType"] = "alert-danger";
+                    break;
+            }
+        }
     }
 }

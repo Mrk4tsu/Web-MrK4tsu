@@ -41,6 +41,9 @@ namespace Model.Entity
 
         public bool? Status { get; set; }
 
+        [StringLength(255)]
+        public string Avatar { get; set; }
+
         public virtual GroupUser GroupUser { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

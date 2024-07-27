@@ -21,6 +21,12 @@ namespace WebMrKatsu.Areas.Admin
                 );
 
             context.MapRoute(
+                "List Account",
+                "list-user",
+                new { action = "Index", controller = "Account" }
+                );
+
+            context.MapRoute(
                 "Admin Login",
                 "login",
                 new { action = "Index", controller = "Authenticate" }

@@ -63,6 +63,7 @@ C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\System.Web.Webpages
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\System.Web.Webpages.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\System.Web.Webpages.Razor.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\Utilities.dll
+C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\PagedList.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\Konscious.Security.Cryptography.Argon2.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\System.Memory.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\Konscious.Security.Cryptography.Blake2.dll
@@ -82,6 +83,7 @@ C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\System.Web.Webpages
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\System.Web.Helpers.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\System.Web.Mvc.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\PagedList.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\Konscious.Security.Cryptography.Argon2.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\System.Memory.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\WebMrKatsu\bin\Konscious.Security.Cryptography.Blake2.xml

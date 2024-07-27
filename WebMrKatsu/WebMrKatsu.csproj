@@ -99,6 +99,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\admin\css\style.css" />
+    <Content Include="assets\ajax\jquery.unobtrusive-ajax.js" />
+    <Content Include="assets\ajax\jquery.unobtrusive-ajax.min.js" />
     <Content Include="assets\css\bootstrap-grid.css" />
     <Content Include="assets\css\bootstrap-grid.min.css" />
     <Content Include="assets\css\bootstrap-grid.rtl.css" />
@@ -116,6 +118,7 @@
     <Content Include="assets\css\bootstrap.rtl.css" />
     <Content Include="assets\css\bootstrap.rtl.min.css" />
     <Content Include="assets\img\logo4.png" />
+    <Content Include="assets\jquery\jquery-3.7.1.min.js" />
     <Content Include="assets\js\bootstrap.bundle.js" />
     <Content Include="assets\js\bootstrap.bundle.min.js" />
     <Content Include="assets\js\bootstrap.esm.js" />
@@ -171,6 +174,10 @@
     <Content Include="assets\fonts\Montserrat-Italic.ttf" />
     <Content Include="assets\fonts\Montserrat-Medium.ttf" />
     <Content Include="assets\fonts\DesignerVN-Poppins-Regular.ttf" />
+    <Content Include="Areas\Admin\Views\Account\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Account\Edit.cshtml" />
+    <Content Include="Areas\Admin\Views\Account\Create.cshtml" />
+    <Content Include="Areas\Admin\Views\Account\CreateUser.cshtml" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -181,10 +188,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Areas\Admin\Views\Account\" />
     <Folder Include="Areas\Admin\Views\Base\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+    <Folder Include="uploads\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Model\Model.csproj">

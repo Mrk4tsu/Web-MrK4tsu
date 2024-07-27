@@ -15,16 +15,24 @@ namespace Utilities
         }
         public string HashPassword(string password)
         {
-            using (var hasher = new Argon2id(Encoding.UTF8.GetBytes(password)))
+            try
             {
-                hasher.Salt = new byte[16];
-                hasher.DegreeOfParallelism = 8;
-                hasher.MemorySize = 65536;
-                hasher.Iterations = 4;
+                using (var hasher = new Argon2id(Encoding.UTF8.GetBytes(password)))
+                {
+                    hasher.Salt = new byte[16];
+                    hasher.DegreeOfParallelism = 8;
+                    hasher.MemorySize = 65536;
+                    hasher.Iterations = 4;
 
-                var hashBytes = hasher.GetBytes(128);
-                return Convert.ToBase64String(hashBytes); // Convert byte[] to base64 string
+                    var hashBytes = hasher.GetBytes(128);
+                    return Convert.ToBase64String(hashBytes); // Convert byte[] to base64 string
+                }
             }
+            catch
+            {
+                return null;
+            }
+            
         }
 
         public bool VerifyPassword(string password, string hashedPassword)

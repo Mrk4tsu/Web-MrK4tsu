@@ -3,6 +3,8 @@ C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\Model.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\Model.pdb
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\EntityFramework.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\PagedList.dll
+C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\PagedList.Mvc.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\Utilities.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\Konscious.Security.Cryptography.Argon2.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\System.Memory.dll
@@ -13,6 +15,8 @@ C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\System.Buffers.dll
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\Utilities.pdb
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\EntityFramework.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\PagedList.xml
+C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\PagedList.Mvc.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\Konscious.Security.Cryptography.Argon2.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\System.Memory.xml
 C:\Users\KatsuPC\Documents\GitHub\Web-MrK4tsu\Model\bin\Debug\Konscious.Security.Cryptography.Blake2.xml
